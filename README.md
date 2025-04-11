@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Jonathas</h1>
+<h1 align="center">👋 Olá! Eu sou Jonathas</h1>
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Campina Grande. <br>
