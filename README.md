@@ -2,7 +2,6 @@
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> na Universidade Federal de Campina Grande. <br>
-  Atualmente focado em <strong>desenvolvimento web com Python (Django)</strong>, além de estudar estrutura de dados e algoritmos.
 </p>
 
 ---
